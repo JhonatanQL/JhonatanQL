@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hola, bienvenidos a mi perfil👋
+Soy, <b>Jhonatan Martín Quiroz López</b> me especializo en <b>maquetación web</b>.
 
 <!--
 **JhonatanQL/JhonatanQL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
