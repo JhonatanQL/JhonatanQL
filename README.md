@@ -39,3 +39,7 @@
 <img src="https://camo.githubusercontent.com/59f500f98d07c8fb5cc38b71662de8f4422ebf7b3dde3e574131a8edd7a0d3f4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f66616365626f6f6b2d2532333245383746422e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d66616365626f6f6b266c6f676f436f6c6f723d7768697465" alt="facebook" data-canonical-src="https://img.shields.io/badge/facebook-%232E87FB.svg?&amp;style=for-the-badge&amp;logo=facebook&amp;logoColor=white" style="max-width: 100%;">
 </a>  
 </div>
+<h2 dir="auto"><g-emoji class="g-emoji" alias="pushpin" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4cc.png">📌</g-emoji>Lo que sé hacer</h2>
+<ul>
+<li><a href="https://github.com/JhonatanQL/Landing-Page-Cryptocurrency">Landing Page Cryptocurrency</a></li>
+</ul>
