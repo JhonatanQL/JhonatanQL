@@ -41,5 +41,6 @@
 </div>
 <h2 dir="auto"><g-emoji class="g-emoji" alias="pushpin" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4cc.png">📌</g-emoji>Lo que sé hacer</h2>
 <ul>
+<li><a href="https://github.com/JhonatanQL/Landing-Page-Crypto">Lading Page Crypto</a></li>
 <li><a href="https://github.com/JhonatanQL/Landing-Page-Cryptocurrency">Landing Page Cryptocurrency</a></li>
 </ul>
