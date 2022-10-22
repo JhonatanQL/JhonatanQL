@@ -1,5 +1,5 @@
 <h2 align="center">¡Hola 👋!, Soy Jhonatan Quiroz</h2>
-<p align="center">Soy <b>maquetador web</b>, cuento con 5 meses de experiencia.</p>
+<p align="center">Soy <b>maquetador web</b>, cuento con tres meses de experiencia.</p>
 <h2 dir="auto"><g-emoji class="g-emoji" alias="pushpin" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4cc.png">📌</g-emoji> Mis Conocimientos</h2>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
