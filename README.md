@@ -1,40 +1,9 @@
 <h2 align="center">¡Hola 👋!, Soy Jhonatan Quiroz</h2>
-<p align="center">3 meses de experiencia como <b>Maquetador Web</b>. Busco nuevas experiencias y desafíos profesionales. Persona responsable, perseverante, trabajo en equipo y respetuoso. Trabajo bajo la documentación oficial de la W3C.
-Realizó buenas prácticas. Utilizó metodología KANBAN</p>
-<h2 dir="auto"><g-emoji class="g-emoji" alias="pushpin" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4cc.png">📌</g-emoji> Mis Conocimientos</h2>
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://pugjs.org" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/>
-  </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-  </a>
-  <a href="https://gulpjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/>
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
-  </a>
-  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/>
-  </a>
-</p>
-<h2 dir="auto"><g-emoji class="g-emoji" alias="pushpin" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4cc.png">📌</g-emoji>Lo que sé hacer</h2>
-<ul>
-  <li><a href="https://jhonatanql.github.io/New-Design/">New Design</a></li>
-  <li><a href="https://github.com/JhonatanQL/Landing-Page-Crypto">Lading Page Crypto</a></li>
-  <li><a href="https://github.com/JhonatanQL/Landing-Page-Cryptocurrency">Landing Page Cryptocurrency</a></li>
-  <li><a href="https://mastelsac.net/">Rediseño Completo de Mastel S.A.C.</a></li>
-</ul>
+<p align="center">3 meses de experiencia como <b>Maquetador Web</b>. Busco nuevas experiencias y desafíos profesionales. <br> Persona responsable, perseverante, me gusta trabajar en equipo y ser respetuoso. Trabajo bajo la<br> documentación oficial de la W3C. Realizó buenas prácticas. Utilizó metodología KANBAN</p>
+<h2 dir="auto"><g-emoji class="g-emoji" alias="pushpin" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4cc.png">📌</g-emoji> Currículum vitae (CV)</h2>
+<p><a href="https://docs.google.com/document/d/1FrOTUgYQsYz10rj7arV7WvLuhqcnXe6Sfz1CxKZDv0E/edit?usp=sharing" target="_blank">Visualizar CV</a></p>
+<h2 dir="auto"><g-emoji class="g-emoji" alias="pushpin" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4cc.png">📌</g-emoji> Portafolio web</h2>
+<p><a href="https://docs.google.com/document/d/1FrOTUgYQsYz10rj7arV7WvLuhqcnXe6Sfz1CxKZDv0E/edit?usp=sharing" target="_blank">Visualizar Portafolio</a></p>
 <h2 dir="auto"><g-emoji class="g-emoji" alias="pushpin" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4cc.png">📌</g-emoji> Contáctame</h2>
 <div align="left" dir="auto">
 <a href="https://github.com/jhonatanQL">
