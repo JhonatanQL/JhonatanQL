@@ -1,5 +1,6 @@
 <h2 align="center">¡Hola 👋!, Soy Jhonatan Quiroz</h2>
-<p align="center">Soy <b>maquetador web</b>, cuento con tres meses de experiencia.</p>
+<p align="center">3 meses de experiencia como <b>Maquetador Web</b>. Busco nuevas experiencias y desafíos profesionales. Persona responsable, perseverante, trabajo en equipo y respetuoso. Trabajo bajo la documentación oficial de la W3C.
+Realizó buenas prácticas. Utilizó metodología KANBAN</p>
 <h2 dir="auto"><g-emoji class="g-emoji" alias="pushpin" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4cc.png">📌</g-emoji> Mis Conocimientos</h2>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
