@@ -1,9 +1,9 @@
 <h2 align="left">¡Hola 👋!, Soy Jhonatan Quiroz</h2>
 <p align="left">3 meses de experiencia como <b>Maquetador Web</b>. Busco nuevas experiencias y desafíos profesionales. Persona responsable, perseverante, me gusta trabajar en equipo y ser respetuoso. Trabajo bajo la documentación oficial de la W3C. Realizó buenas prácticas. Utilizó metodología KANBAN</p>
-<h2 dir="auto"><g-emoji class="g-emoji" alias="pushpin" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4cc.png">📌</g-emoji> Currículum vitae (CV)</h2>
-<p><a href="https://docs.google.com/document/d/1FrOTUgYQsYz10rj7arV7WvLuhqcnXe6Sfz1CxKZDv0E/edit?usp=sharing" target="_blank">Visualizar CV</a></p>
 <h2 dir="auto"><g-emoji class="g-emoji" alias="pushpin" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4cc.png">📌</g-emoji> Portafolio web</h2>
-<p><a href="https://docs.google.com/document/d/1FrOTUgYQsYz10rj7arV7WvLuhqcnXe6Sfz1CxKZDv0E/edit?usp=sharing" target="_blank">Visualizar Portafolio</a></p>
+<p><a href="https://jhonatanql.github.io/Portafolio-web/" target="_blank">Visualizar Portafolio</a></p>
+<h2 dir="auto"><g-emoji class="g-emoji" alias="pushpin" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4cc.png">📌</g-emoji> Curriculum vitae (CV)</h2>
+<p><a href="https://docs.google.com/document/d/1FrOTUgYQsYz10rj7arV7WvLuhqcnXe6Sfz1CxKZDv0E/edit?usp=sharing" target="_blank">Visualizar CV</a></p>
 <h2 dir="auto"><g-emoji class="g-emoji" alias="pushpin" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4cc.png">📌</g-emoji> Contáctame</h2>
 <div align="left" dir="auto">
 <a href="https://www.linkedin.com/in/jhonatan-mart%C3%ADn-quiroz-l%C3%B3pez/" rel="nofollow">
