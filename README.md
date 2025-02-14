@@ -5,7 +5,7 @@
 Me encanta el proceso de maquetación web y considero que es uno de mis puntos más fuertes 🎨. Me enfoco en crear soluciones escalables utilizando el menor número posible de líneas de código, siempre buscando resultados óptimos ⚙️. Mi objetivo es ofrecer productos de alta calidad y brindar una experiencia de usuario excepcional ⭐. Valoro la eficiencia y la capacidad de entrega de productos que cumplan con los más altos estándares 🚀.
 
 <p align="left">
-  <a href="mailto:jhonatan.frontend.dev@gmail.com">
+  <a href="https://www.linkedin.com/in/jhonatan-quiroz-/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
